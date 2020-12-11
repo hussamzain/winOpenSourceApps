@@ -46,10 +46,12 @@
 
 ## System:
 
-- [7-Zip](https://sourceforge.net/projects/sevenzip/)
+- [7-Zip](https://sourceforge.net/projects/sevenzip)
   > A free file archiver for extremely high compression.
-- [CopyQ](https://github.com/hluk/CopyQ/)
+- [CopyQ](https://github.com/hluk/CopyQ)
   > CopyQ is advanced clipboard manager with editing and scripting features.
+- [BleachBit](https://github.com/bleachbit/bleachbit)
+  > BleachBit cleans files to free disk space and to maintain privacy.
 
 ## Chat:
 
