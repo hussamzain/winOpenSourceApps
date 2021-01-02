@@ -25,6 +25,8 @@
   > VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
 - [Tor Project](https://github.com/torproject/tor)
   > (Unofficial repositorie) Defend yourself against tracking and surveillance. Circumvent censorship.
+- [AES Crypt](https://github.com/paulej/AESCrypt)
+  > AES Crypt is a file encryption software available on several operating systems that uses the industry standard Advanced Encryption Standard (AES) to easily and securely encrypt files.
 
 ## Developer:
 
