@@ -27,6 +27,8 @@
   > (Unofficial repositorie) Defend yourself against tracking and surveillance. Circumvent censorship.
 - [AES Crypt](https://github.com/paulej/AESCrypt)
   > AES Crypt is a file encryption software available on several operating systems that uses the industry standard Advanced Encryption Standard (AES) to easily and securely encrypt files.
+- [psiphon-windows](https://github.com/Psiphon-Inc/psiphon-windows)
+  > This repository contains the code for the Psiphon for Windows client software.
 
 ## Developer:
 
@@ -54,6 +56,8 @@
   > CopyQ is advanced clipboard manager with editing and scripting features.
 - [BleachBit](https://github.com/bleachbit/bleachbit)
   > BleachBit cleans files to free disk space and to maintain privacy.
+- [virtualbox](https://www.virtualbox.org/browser/vbox/trunk)
+  > VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 ## Chat:
 
