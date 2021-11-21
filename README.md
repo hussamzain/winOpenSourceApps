@@ -4,8 +4,6 @@
 
 - [Audacity](https://github.com/audacity/audacity)
   > Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems.
-- [Kodi](https://github.com/xbmc/xbmc)
-  > Kodi is an award-winning free and open source software media player and entertainment hub for digital media.
 - [GIMP](https://github.com/GNOME/gimp)
   > GIMP is a cross-platform image editor available for GNU/Linux, OS X, Windows and more operating systems. It is free software, you can change its source code and distribute your changes.
 - [HandBrake](https://github.com/HandBrake/HandBrake)
