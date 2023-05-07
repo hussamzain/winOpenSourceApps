@@ -17,7 +17,7 @@
 
 ## Security:
 
-- [Bitwarden](https://github.com/bitwarden/desktop)
+- [Bitwarden](https://github.com/bitwarden/clients)
   > Open source password management solutions for individuals, teams, and business organizations.
 - [VeraCrypt](https://github.com/veracrypt/VeraCrypt)
   > VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
